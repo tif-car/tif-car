@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tif-car
 - 👀 I’m interested in learning artificial intelligence
-- 🌱 I’m currently learning React.JS
 - 💞️ I’m looking to collaborate on any fun project out there!
 
 
